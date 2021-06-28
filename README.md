@@ -1,2 +1,2 @@
 # prueba
-prueba para practicar
+prueba para practicar con git
